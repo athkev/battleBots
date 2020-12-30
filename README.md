@@ -1,4 +1,6 @@
 500882444 Taehyun Ahn tahn@ryerson.ca
+Player vs AI battle bot simulation. User can switch between first person camera and bird eye view camera.
+OpenGL matrix calculations and texture mapping are used for the project through c++.
 
 ![alt text](https://github.com/athkev/battleBots/blob/main/sample.gif)
 

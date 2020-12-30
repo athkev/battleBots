@@ -1,5 +1,7 @@
 500882444 Taehyun Ahn tahn@ryerson.ca
 
+![alt text](https://github.com/athkev/battleBots/blob/main/sample.gif)
+
 Controls:
 	F1: Help
 	W: Forward
